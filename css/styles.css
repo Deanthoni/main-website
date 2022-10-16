@@ -1,0 +1,208 @@
+
+
+body {
+  text-align: center;
+
+
+
+}
+
+
+.container1 {
+height: 100vh;
+}
+
+
+.computerboy {
+
+  position: relative;
+  margin: 0 auto 0 auto;
+  bottom: 20px;
+
+}
+
+.container2 {
+height: 100vh;
+background-color: black;
+
+
+}
+
+.webdev {
+  padding-top: 50px;
+}
+
+
+.frontendwebdev-h3 {
+margin-top: 1px;
+
+}
+
+
+.container3 {
+  background-color: #FB2576;
+  padding-bottom: 30px;
+  padding-top:100px;
+  height: 100vh;
+  display: block;
+
+
+}
+
+.headphone {
+
+
+
+
+}
+
+.musictext-h3 {
+
+
+}
+
+.musictext {
+color:white;
+text-align: center;
+font-size: 2rem;
+
+}
+
+
+
+
+
+/* Container 4*/
+
+
+.container4 {
+  height: 100vh;
+}
+
+.container4-h2 {
+  font-size: 6rem;
+  padding-top: 200px;
+}
+
+.container4-p {
+line-height: 60px;
+width: 67%;
+padding-bottom: 40px;
+}
+
+
+.bottom-container {
+  background-color: #00F5FF;
+  height: 40px;
+}
+
+.btn {
+  -webkit-border-radius: 50;
+  -moz-border-radius: 50;
+  border-radius: 50px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  background: #fa0000;
+  padding: 10px 20px 10px 20px;
+  border: solid #5ea7bd 3px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #37ff00;
+  text-decoration: none;
+}
+
+
+
+
+.headphone {
+  margin-top: 20px;
+  border-radius: 50%;
+  height: 300px;
+}
+
+
+
+h1 {
+  padding-top:200px;
+  font-size: 4rem;
+  width: 20%;
+  margin: 0 auto 0 auto;
+  font-family: Bilbo;
+
+}
+
+h2{
+  font-family: Bilbo;
+  font-size: 2rem;
+}
+
+h3 {
+  font-size: 3rem;
+  font-family: bilbo;
+}
+
+
+
+p {
+  font-family: Montserrat;
+  margin: 0 auto;
+  line-height: 35px;
+  font-size: 3rem;
+}
+
+
+.junior {
+  text-decoration: underline;
+}
+
+
+.cloud1 {
+  position: absolute;
+  top: 370px;
+  left: 410px;
+
+
+
+
+}
+
+.cloud2 {
+  position: absolute;
+  top: 120px;
+  right: 480px;
+
+
+}
+
+
+
+.juniordev {
+  margin-top: 16px;
+  font-size: 2rem;
+}
+
+
+
+/***** psudo classes*****/
+.btn {
+  -webkit-border-radius: 50;
+  -moz-border-radius: 50;
+  border-radius: 50px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  background: #fa0000;
+  padding: 10px 20px 10px 20px;
+  border: solid #5ea7bd 3px;
+  text-decoration: none;
+  curser: pointer;
+
+}
+
+.btn:hover {
+  background: #37ff00;
+  text-decoration: none;
+}
